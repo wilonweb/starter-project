@@ -1,4 +1,4 @@
-baseURL = 'https://<ton-user>.github.io/<nouveau-repo>/'
+baseURL = 'https://<ton-user>.github.io/starter-project/'
 languageCode = 'fr-fr'
 title = 'Mon blog'
 theme = 'blowfish'
