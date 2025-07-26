@@ -1,4 +1,4 @@
-baseURL = 'https://wilonweb.github.io/6-starter-hugo-blowfishhugo/'
+baseURL = 'https://<ton-user>.github.io/<nouveau-repo>/'
 languageCode = 'fr-fr'
 title = 'Mon blog'
 theme = 'blowfish'
@@ -7,5 +7,3 @@ theme = 'blowfish'
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowPostNavLinks = true
-  disableFingerprinting = true
-  disableSRI = true
